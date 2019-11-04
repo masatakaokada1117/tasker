@@ -73,3 +73,6 @@ gem 'font-awesome-sass', '~> 5.9.0'
 
 # device導入のため
 gem 'devise'
+
+# ruby_formatter
+gem 'rufo'
