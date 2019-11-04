@@ -71,7 +71,7 @@ gem 'jquery-rails'
 # アイコン使用のため
 gem 'font-awesome-sass', '~> 5.9.0'
 
-# device導入のため
+# devise導入のため
 gem 'devise'
 
 # ruby_formatter
